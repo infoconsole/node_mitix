@@ -1,0 +1,11 @@
+{
+  "name": "my_modules",
+  "version": "1.0.0",
+  "description": "第一个模块",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 还没写测试"
+  },
+  "author": "oldflame-Jm",
+  "license": "Apache-2.0"
+}
